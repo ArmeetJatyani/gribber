@@ -1,0 +1,27 @@
+{
+  "name": "spotify_track_data",
+  "version": "0.0.0",
+  "description": "website that uses the Spotify Web API to get info about a spotify track",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "spotify",
+    "API",
+    "track",
+    "song",
+    "data",
+    "information",
+    "music",
+    "artists",
+    "search",
+    "number",
+    "streams",
+    "plays",
+    "popularity"
+  ],
+  "author": "xarmeetx",
+  "license": "ISC"
+}
